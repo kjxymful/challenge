@@ -1,0 +1,1 @@
+print("Lösung 1")
